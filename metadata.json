@@ -1,0 +1,6 @@
+{
+  "name": "EquiTrip - Trip Expense Splitter & Settlement Ledger",
+  "description": "Calculation-first, offline-ready trip expense splitter with transparent arithmetic, common kitty funds, multi-currency support, auditable ledger, and optimal settlement algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
